@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">A passionate student whos goal is to be a fullstack dev</h3>
-
+<h3 align="center">Průmyslová škola Mladá Boleslav</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
