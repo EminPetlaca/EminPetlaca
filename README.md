@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">A passionate student who want to be a fullstack dev</h3>
+<h3 align="center">A passionate student whos goal is to be a fullstack dev</h3>
 
 
 
